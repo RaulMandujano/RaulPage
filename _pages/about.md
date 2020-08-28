@@ -14,4 +14,3 @@ I currently work at Avetta as a account speacilist. I am excited to gradutate an
 - Go camping
 - Gaming Live Stream
 - Walk my dogs
-- 
