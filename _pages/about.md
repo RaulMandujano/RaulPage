@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+My name is Raul Mandujano, I born and raise in Lima Peru until the age of 17 and I moved to the United States. I always loved technology and I liked to increamy my personal knowledge, I learn Graphic Design when I was 11 in CorelDraw. I learned JAVA when I was 15, and I don’t remember it very well. I haven’t learn anymore until I started the web program at Utah Valley University. I am graduating the next May 2021, and I am very excited to keep learning and grow as a developer.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+I currently work at Avetta as a account speacilist. I am excited to gradutate and try ot find a job related with my carrear. For this class I hope to learn everythin from JavaScrip or what this class cover is fine.
 
-## Features
+## Thing I do for fun
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- Visit New Places (Driving, or flying)
+- Go camping
+- Gaming Live Stream
+- Walk my dogs
