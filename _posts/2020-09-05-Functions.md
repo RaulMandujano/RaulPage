@@ -2,7 +2,7 @@
 layout: post
 title:  Functions, Objects, and Arrays
 categories: [JavaScrip,Functions,Objects, Arrays]
-excerpt: JAM stand for Javascrip, Apis, and Markup. It is a free web server, it is a new way to build websites in a faster way, with a bette interface. They connect thought internet to inretac and offer a better service and platform for users.
+excerpt: Functions - Functions in Javascript are the actions that the code takes to solve problems or calculations, it can be used under the function keyword. It is the return that allows new information to be entered and processed in an organized arrangement.
 ---
 
 Functions - Functions in Javascript are the actions that the code takes to solve problems or calculations, it can be used under the function keyword. It is the return that allows new information to be entered and processed in an organized arrangement.
