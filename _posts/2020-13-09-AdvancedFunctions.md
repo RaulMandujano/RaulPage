@@ -3,7 +3,6 @@ layout: post
 title:  Advanced Functions
 categories: [JavaScrip,Functions,Objects, Arrays]
 excerpt: What is recursion?
-Recursion is the process that calls different variables to repeat an action to fulfill an established function. It is widely used for the ease
 ---
 
 • What is recursion?
