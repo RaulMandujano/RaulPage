@@ -2,7 +2,8 @@
 layout: post
 title:  Advanced Functions
 categories: [JavaScrip,Functions,Objects, Arrays]
-excerpt: Functions - Functions in Javascript are the actions that the code takes to solve problems or calculations, it can be used under the function keyword. It is the return that allows new information to be entered and processed in an organized arrangement.
+excerpt: What is recursion?
+Recursion is the process that calls different variables to repeat an action to fulfill an established function. It is widely used for the ease
 ---
 
 •	What is recursion?
