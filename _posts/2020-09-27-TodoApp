@@ -5,9 +5,9 @@ categories: [JavaScrip,API,MARKUP]
 excerpt: My application performs the function of adding tasks, completing them, modifying them and eliminating them if necessary. The page has a function to add categories to be able to separate and differences when you add a task.
 ---
 
-![]https://user-images.githubusercontent.com/22435576/94389052-fe70b780-010b-11eb-91f8-87d6eb540f33.PNG
+![](images/TodoAppHome.PNG)
 
-![]https://user-images.githubusercontent.com/22435576/94389071-0b8da680-010c-11eb-86fa-31f5f6ea4328.PNG
+![](images/TodoAppTask.PNG)
 
 My application performs the function of adding tasks, completing them, modifying them and eliminating them if necessary. The page has a function to add categories to be able to separate and differences when you add a task. To this it adds the extra function of being able to search for tasks at the top, the searchbar function to search for tasks or categories of tasks.
 My application was designed in this way, it fulfills the main function it has, to add and complete tasks. It is designed in a simple way to allow better interaction with the user.
