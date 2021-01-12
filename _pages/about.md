@@ -12,5 +12,5 @@ I am excited to gradutate and try ot find a job related with my carrear. For thi
 
 - Visit New Places (Driving, or flying)
 - Go camping
-- Gaming Live Stream
+- Live Stream my gameplays
 - Walk my dogs
