@@ -2,8 +2,7 @@
 layout: post
 title:  Research and Learning
 categories: [Research]
-excerpt: How do you personally research on the web?
-Personally, I surf the web when I need help with a problem or have
+excerpt: How do you personally research on the web? Personally, I surf the web when I need help with a problem or have
 ---
 
 How do you personally research on the web?
