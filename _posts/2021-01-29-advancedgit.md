@@ -5,7 +5,7 @@ categories: [Git]
 excerpt: JAM stand for Javascrip, Apis, and Markup. It is a free web server, it is a new way to build websites in a faster way, with a bette interface. They connect thought internet to inretac and offer a better service and platform for users.
 ---
 
-##Git rebase
+Git rebase
 
 •	What is git rebase?
 Rebasing is used to be able to combine existing commits within a branch with commits already in it. The main function of this is to be able to add the new code added by a collaborator by the team into the master branch or the main branch.
