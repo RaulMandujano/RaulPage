@@ -21,6 +21,6 @@ The disadvantages when using Rebase:
 •	When shouldn't you use git rebase? Why?
 When you work in a group or on multi-programmer projects. Why? Overrun should be avoided in these circumstances since it would avoid the use of Pull Request, and Pull Requests help the code to be fluid among all programmers since they are accepted manually by a Project Manager.
 
-![imagenode](/images/rebase1.jpg)
-![imagenode](/images/rebase2.jpg)
-![imagenode](/images/rebase3.jpg)
+![imagenode](/images/rebase1.png)
+![imagenode](/images/rebase2.png)
+![imagenode](/images/rebase3.png)
