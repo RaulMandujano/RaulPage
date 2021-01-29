@@ -23,4 +23,4 @@ When you work in a group or on multi-programmer projects. Why? Overrun should be
 
 ![imagenode](/images/rebase1.png)
 ![imagenode](/images/rebase2.png)
-![imagenode](/images/rebase 3.png)
+![imagenode](/images/rebase3.png)
