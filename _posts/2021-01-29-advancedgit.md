@@ -47,11 +47,11 @@ Git reset is the command that is used to return or undo an unwanted change. It h
 
 •	What is the difference between hard, mixed and soft:
 
-    --hard is the most used reset command but at the same time it is the most dangerous when working on projects, since it deletes the previous information at the time of undo and could cause loss of information.
+    hard is the most used reset command but at the same time it is the most dangerous when working on projects, since it deletes the previous information at the time of undo and could cause loss of information.
     
-  	--mixed is the reset command that is used in the same way as hard, but in this case, this command takes the uncompleted information and does not discard it, but instead moves it to the working directory.
+  	mixed is the reset command that is used in the same way as hard, but in this case, this command takes the uncompleted information and does not discard it, but instead moves it to the working directory.
     
-  	--soft unlike the others, reset the commits made in the project, this option is used when you committed something by accident.
+  	soft unlike the others, reset the commits made in the project, this option is used when you committed something by accident.
 
 •	What is git checkout?
 
