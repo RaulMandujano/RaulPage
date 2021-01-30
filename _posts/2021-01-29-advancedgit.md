@@ -34,6 +34,5 @@ Git Interactive rebase merge will look like this, it will open the list of thing
 <img width="570" alt="interactive" src="https://user-images.githubusercontent.com/22435576/106362203-cd350d80-62de-11eb-908e-f4ea2c27d4c5.png">
 
 
-
 When you shouldn't rebase. If you rebase the main branch to your branch it will this happen.
 ![norebase](https://user-images.githubusercontent.com/22435576/106361410-f8b5f900-62da-11eb-8601-646d59e566f2.jpg)
