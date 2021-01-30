@@ -36,3 +36,41 @@ Git Interactive rebase merge will look like this, it will open the list of thing
 
 When you shouldn't rebase. If you rebase the main branch to your branch it will this happen.
 ![norebase](https://user-images.githubusercontent.com/22435576/106361410-f8b5f900-62da-11eb-8601-646d59e566f2.jpg)
+
+
+git reset, checkout, and revert
+
+•	What is git reset?
+
+Git reset is the command that is used to return or undo an unwanted change. It has three types of shapes, which is --soft, --mixed, --hard. The three uses correspond to Git's three internal state.
+
+o	What is the difference between hard, mixed and soft
+    --hard is the most used reset command but at the same time it is the most dangerous when working on projects, since it deletes the previous information at the time of undo and could cause loss of information.
+  	--mixed is the reset command that is used in the same way as hard, but in this case, this command takes the uncompleted information and does not discard it, but instead moves it to the working directory.
+  	--soft unlike the others, reset the commits made in the project, this option is used when you committed something by accident.
+
+•	What is git checkout?
+
+Checkout works for navigating from branch to branch or even being able to access a commit using the commit number.
+
+•	What is git revert?
+
+Git revert, as the name implies, revert works to revert any changes made and take you to the previous step.
+
+•	In what ways are these commands the same and what ways are they different?
+
+These 3 commands are similar in themselves because they have the same functionality with each other, without one command you cannot use the other. You could not revert without accessing the branch using checkout or in the same way reset.
+In that they are not alike, in the use and the way I use since the 3 are used in totally different times.
+
+In this example I am using "git checkout your_branch_name" to move from one branch to the other.
+
+<img width="303" alt="gitcheckout" src="https://user-images.githubusercontent.com/22435576/106363475-045aed00-62e6-11eb-8c36-b6413df40899.png">
+
+In this example I use "git reset" plus the command --hard to be able to revert.
+
+<img width="447" alt="Gitrevert" src="https://user-images.githubusercontent.com/22435576/106363506-31a79b00-62e6-11eb-8537-46ad3d9d8b2e.png">
+
+In this example I use "git revert HEAD" to revert every change made.
+
+<img width="447" alt="Gitrevert" src="https://user-images.githubusercontent.com/22435576/106363529-57cd3b00-62e6-11eb-91a5-120107daeb8e.png">
+
