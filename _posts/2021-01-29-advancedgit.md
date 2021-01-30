@@ -68,7 +68,7 @@ In this example I am using "git checkout your_branch_name" to move from one bran
 
 In this example I use "git reset" plus the command --hard to be able to revert.
 
-<img width="447" alt="Gitrevert" src="https://user-images.githubusercontent.com/22435576/106363506-31a79b00-62e6-11eb-8537-46ad3d9d8b2e.png">
+<img width="323" alt="gitreset" src="https://user-images.githubusercontent.com/22435576/106363547-64519380-62e6-11eb-8e3f-da6086f1d474.png">
 
 In this example I use "git revert HEAD" to revert every change made.
 
