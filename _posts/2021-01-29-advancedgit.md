@@ -22,6 +22,7 @@ The disadvantages when using Rebase:
 When you work in a group or on multi-programmer projects. Why? Overrun should be avoided in these circumstances since it would avoid the use of Pull Request, and Pull Requests help the code to be fluid among all programmers since they are accepted manually by a Project Manager.
 
 When you rebase your branch to the main branch, it will look like this:
+
 <img width="572" alt="completerebase" src="https://user-images.githubusercontent.com/22435576/106361877-05d3e780-62dd-11eb-8db9-2159a78d7f37.png">
 
 and this is how it will be the result:
