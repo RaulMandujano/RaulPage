@@ -67,6 +67,10 @@ In this example I am using "git checkout your_branch_name" to move from one bran
 
 <img width="303" alt="gitcheckout" src="https://user-images.githubusercontent.com/22435576/106363475-045aed00-62e6-11eb-8c36-b6413df40899.png">
 
+and if you want to access to a commit use "git checkout commit_number" and it will show a message like this
+
+<img width="605" alt="checkoutcommit" src="https://user-images.githubusercontent.com/22435576/106363689-4fc1cb00-62e7-11eb-8750-89b47663d47e.png">
+
 In this example I use "git reset" plus the command --hard to be able to revert.
 
 <img width="323" alt="gitreset" src="https://user-images.githubusercontent.com/22435576/106363547-64519380-62e6-11eb-8e3f-da6086f1d474.png">
