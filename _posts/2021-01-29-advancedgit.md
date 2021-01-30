@@ -7,10 +7,10 @@ excerpt: What is git rebase?  Rebasing is used to be able to combine existing co
 
 **Git rebase**
 
-•	What is git rebase?
+**•	What is git rebase?**
 Rebasing is used to be able to combine existing commits within a branch with commits already in it. The main function of this is to be able to add the new code added by a collaborator by the team into the master branch or the main branch.
 
-•	What are some advantages and disadvantages of git rebase? (At least 2 of each)
+**•	What are some advantages and disadvantages of git rebase? (At least 2 of each)**
 The advantages of using Rebase within a project are:
 1.	You get a cleaner and easier code to merge with other branches.
 2.	Delete merges created and no longer used when using the Git merge command within GIT.
@@ -18,7 +18,7 @@ The disadvantages when using Rebase:
 1.	When Rebase is done, one of the conflicts may be losing the authority to modify created commits.
 2.	Another big problem with rebase, is that when rebase between branches, you lose the option to create Pull Request.
 
-•	When shouldn't you use git rebase? Why?
+**•	When shouldn't you use git rebase? Why?**
 When you work in a group or on multi-programmer projects. Why? Overrun should be avoided in these circumstances since it would avoid the use of Pull Request, and Pull Requests help the code to be fluid among all programmers since they are accepted manually by a Project Manager.
 
 When you rebase your branch to the main branch, it will look like this:
@@ -41,11 +41,11 @@ When you shouldn't rebase. If you rebase the main branch to your branch it will 
 
 **Git reset, checkout, and revert**
 
-•	What is git reset?
+**•	What is git reset?**
 
 Git reset is the command that is used to return or undo an unwanted change. It has three types of shapes, which is --soft, --mixed, --hard. The three uses correspond to Git's three internal state.
 
-•	What is the difference between hard, mixed and soft:
+**•	What is the difference between hard, mixed and soft:**
 
     hard is the most used reset command but at the same time it is the most dangerous when working on projects, since it deletes the previous information at the time of undo and could cause loss of information.
     
@@ -53,15 +53,15 @@ Git reset is the command that is used to return or undo an unwanted change. It h
     
   	soft unlike the others, reset the commits made in the project, this option is used when you committed something by accident.
 
-•	What is git checkout?
+**•	What is git checkout?**
 
 Checkout works for navigating from branch to branch or even being able to access a commit using the commit number.
 
-•	What is git revert?
+**•	What is git revert?**
 
 Git revert, as the name implies, revert works to revert any changes made and take you to the previous step.
 
-•	In what ways are these commands the same and what ways are they different?
+**•	In what ways are these commands the same and what ways are they different?**
 
 These 3 commands are similar in themselves because they have the same functionality with each other, without one command you cannot use the other. You could not revert without accessing the branch using checkout or in the same way reset.
 In that they are not alike, in the use and the way I use since the 3 are used in totally different times.
