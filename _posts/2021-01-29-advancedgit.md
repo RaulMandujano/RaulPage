@@ -24,3 +24,6 @@ When you work in a group or on multi-programmer projects. Why? Overrun should be
 ![imagenode](/images/rebase1.jpg)
 ![imagenode](/images/rebase2.jpg)
 ![imagenode](/images/rebase3.jpg)
+
+When you shouldn't rebase. If you rebase the main branch to your branch it will this happen.
+![norebase](https://user-images.githubusercontent.com/22435576/106361410-f8b5f900-62da-11eb-8601-646d59e566f2.jpg)
