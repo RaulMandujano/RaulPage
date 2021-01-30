@@ -82,3 +82,8 @@ In this example I use "git revert HEAD" to revert every change made.
 
 <img width="447" alt="Gitrevert" src="https://user-images.githubusercontent.com/22435576/106363529-57cd3b00-62e6-11eb-91a5-120107daeb8e.png">
 
+Git Submodules
+
+Git submodule is a repository within another reposity. Git submodule allows you to be able to have a git repository as a sub directory. Git submodule creates its own commit history which allows better handling of the information it stores. It works excellent for large projects as they store different types of information.
+The biggest advantage of using submodules is that it creates independence for you to track changes or create changes independent of the project. But this itself attracts the downside, which is when you want to merge, cloning or forking the repository. This occurs due to the same independence that the submodule has from the repository
+
