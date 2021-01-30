@@ -29,6 +29,10 @@ and this is how it will be the result:
 
 <img width="432" alt="rebase2" src="https://user-images.githubusercontent.com/22435576/106361904-269c3d00-62dd-11eb-8504-057e9693bd4e.png">
 
+Git Interactive rebase merge will look like this, it will open the list of things that are going to be changed with the rebase:
+
+<img width="570" alt="interactive" src="https://user-images.githubusercontent.com/22435576/106362203-cd350d80-62de-11eb-908e-f4ea2c27d4c5.png">
+
 
 
 When you shouldn't rebase. If you rebase the main branch to your branch it will this happen.
