@@ -19,6 +19,7 @@ The disadvantages when using Rebase:
 2.	Another big problem with rebase, is that when rebase between branches, you lose the option to create Pull Request.
 
 **•	When shouldn't you use git rebase? Why?**
+
 When you work in a group or on multi-programmer projects. Why? Overrun should be avoided in these circumstances since it would avoid the use of Pull Request, and Pull Requests help the code to be fluid among all programmers since they are accepted manually by a Project Manager.
 
 When you rebase your branch to the main branch, it will look like this:
