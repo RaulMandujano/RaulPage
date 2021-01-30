@@ -5,7 +5,7 @@ categories: [Git]
 excerpt: What is git rebase?  Rebasing is used to be able to combine existing commits within a branch with commits already in it. The main function of this is to be able to add the new code added by a collaborator by the team into the master branch or the main branch.
 ---
 
-Git rebase
+**Git rebase**
 
 •	What is git rebase?
 Rebasing is used to be able to combine existing commits within a branch with commits already in it. The main function of this is to be able to add the new code added by a collaborator by the team into the master branch or the main branch.
@@ -39,7 +39,7 @@ When you shouldn't rebase. If you rebase the main branch to your branch it will 
 <img width="504" alt="Screen Shot 2021-01-29 at 11 39 03 AM" src="https://user-images.githubusercontent.com/22435576/106363607-b98da500-62e6-11eb-86ba-4b3f118b4f58.png">
 
 
-git reset, checkout, and revert
+**Git reset, checkout, and revert**
 
 •	What is git reset?
 
@@ -82,7 +82,7 @@ In this example I use "git revert HEAD" to revert every change made.
 
 <img width="447" alt="Gitrevert" src="https://user-images.githubusercontent.com/22435576/106363529-57cd3b00-62e6-11eb-91a5-120107daeb8e.png">
 
-Git Submodules
+**Git Submodules**
 
 Git submodule is a repository within another reposity. Git submodule allows you to be able to have a git repository as a sub directory. Git submodule creates its own commit history which allows better handling of the information it stores. It works excellent for large projects as they store different types of information.
 The biggest advantage of using submodules is that it creates independence for you to track changes or create changes independent of the project. But this itself attracts the downside, which is when you want to merge, cloning or forking the repository. This occurs due to the same independence that the submodule has from the repository
