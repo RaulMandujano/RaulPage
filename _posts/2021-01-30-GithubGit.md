@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Git vs Github
+title:  Git + Github
 categories: [Git, Github]
 excerpt: Git is used to be able to control master repositories locally. It is important because it helps with the development of a project and allows keeping a record
 ---
