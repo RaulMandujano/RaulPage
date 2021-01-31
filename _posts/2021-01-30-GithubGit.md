@@ -5,6 +5,8 @@ categories: [Git, Github]
 excerpt: Git is used to be able to control master repositories locally. It is important because it helps with the development of a project and allows keeping a record
 ---
 
+![Git And Github Version Control](https://user-images.githubusercontent.com/22435576/106373491-406a6e00-6337-11eb-8738-5ae85345ae74.png)
+
 **•	What is Git?**
 
 Git is used to be able to control master repositories locally. It is important because it helps with the development of a project and allows keeping a record of the updated codes or aggregator in the same project. This solves the problem of migrating new add-ons from different ones and doing it manually. By accepting and migrating a pull request, drastic modifications can be made depending on the request sent.
