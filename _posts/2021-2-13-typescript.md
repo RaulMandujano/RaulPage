@@ -2,7 +2,7 @@
 layout: post
 title:  TYPESCRIPT
 categories: [TS,Typescript]
-excerpt: JAM stand for Javascrip, Apis, and Markup. It is a free web server, it is a new way to build websites in a faster way, with a bette interface. They connect thought internet to inretac and offer a better service and platform for users.
+excerpt: TypeScript is a language programmed by Microsoft, the language is based on a language similar to Javascript but easy to read and find debugging.
 ---
 
 What is TypeScript?
