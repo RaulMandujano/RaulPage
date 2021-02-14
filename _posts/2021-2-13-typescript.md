@@ -7,7 +7,7 @@ excerpt: TypeScript is a language programmed by Microsoft, the language is based
 
 # What is TypeScript?
 
-TypeScript is a language programmed by Microsoft, the language is based on a language similar to Javascript but easy to read and find debugging.
+TypeScript works directly as a JavaScript variable, it is a language programmed by Microsoft, the language is based on a language similar to Javascript but easy to read and find debugging. It can be used in the same way as JavaScript, on the front end and the back end.
 
 # How does TypeScript help developers? Why is it a tool worth considering?
 
